@@ -2,7 +2,7 @@
 
 ### Choosing the right patterns based on the type of question
 
-The goal is to analyze the type of question we're dealing with and deduct (from the type of input/question) the pattern we could use. That way we only
+The goal is to analyze the type of question we're dealing with and deduce (from the type of input/question) the pattern we could use. That way we only
 consider the patterns that could fit our specific problem. Once we've analyzed one of main types of problems, we'll ask questions to narrow down our 
 list of possibilities. For example: You are given an array problem. You know you're probably not gonna use a tree traversal approach, so only consider 
 patterns appropriate to array-type problems. Ask yourself questions to further clarify the type of pattern you'll use. Example: Is the array sorted/rotated? 
