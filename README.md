@@ -96,7 +96,7 @@ This repo will cover some of the patterns one can use when solving data structur
   <tr>
     <th>Cyclic sort</th>
     <td>&#8226; They will be problems involving a sorted array with numbers in a given range. <br>
-&#8226; If the problem asks you to find the missing/duplicate/smallest number in an sorted/rotated array.</td>
+&#8226; If the problem asks you to find the missing/duplicate/smallest number in an orted/rotated array.</td>
     <td>&#8226; Find the Missing Number (easy) <br>
 &#8226; Find the Smallest Missing Positive Number (medium)</td>
   </tr>
