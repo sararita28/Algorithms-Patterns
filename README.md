@@ -5,48 +5,48 @@ This repo will cover some of the patterns one can use when solving data structur
 
 <table>
   <tr>
-    <th>Type of problem</th>    
+    <th>Type of problem. If...</th>    
     <th>Potential pattern</th>
   </tr>
   <tr>
-    <td>If the given input is sorted (array, list, or matrix)</td>
+    <td>The given input is sorted (array, list, or matrix)</td>
     <td>Use a variation of binary search or a two-pointers strategy.</td>
   </tr>
    <tr>
-    <td>If you're dealing with top/max/min/closest.. elements among n elements</td>
+    <td>You're dealing with top/max/min/closest.. elements among n elements</td>
     <td>Use a heap</td>
   </tr> 
    <tr>
-    <td>If you need to try all combinations/permutations of the input</td>
+    <td>You need to try all combinations/permutations of the input</td>
     <td>Use recursive backtracking or iterative bfs.</td>
   </tr> 
    <tr>
-    <td>If it's a tree or graph problem</td>
+    <td>It's a tree or graph problem</td>
     <td>Try bfs or dfs</td>
   </tr> 
    <tr>
-    <td>If you need to convert a recursive problem to an iterative one</td>
+    <td>You need to convert a recursive problem to an iterative one</td>
     <td>Use a stack</td>
   </tr> 
    <tr>
-    <td>If there's a O(n^2) time and O(1) space solution</td>
+    <td>There's a O(n^2) time and O(1) space solution</td>
     <td>There must be 2 other solutions: <br> A. Using a Map/Set for O(n) time and space.<br>
      B. Using sorting for O(n logn) time and O(1)space.</td>
   </tr> 
    <tr>
-    <td>If you're asked for optimization (e.g maximization or minimization)</td>
+    <td>You're asked for optimization (e.g maximization or minimization)</td>
     <td>Use dynamic programming</td>
   </tr> 
    <tr>
-    <td>If you need to find some common substring among a set of strings</td>
+    <td>You need to find some common substring among a set of strings</td>
     <td>Use a hashmap or a trie.</td>
   </tr> 
    <tr>
-    <td>If you need to search among a bunch of strings</td>
+    <td>You need to search among a bunch of strings</td>
     <td>Use a trie</td>
   </tr> 
    <tr>
-    <td>If the problem involves a linked list and you can't use extra space</td>
+    <td>The problem involves a linked list and you can't use extra space</td>
     <td>Use the runner technique (a.k.a fast & slow approach)</td>
   </tr> 
 </table>
