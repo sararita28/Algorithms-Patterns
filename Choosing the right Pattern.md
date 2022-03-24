@@ -20,52 +20,52 @@ So I came up with the following:
   <tr>
     <th>Array</th>
     <td>
-    Is it sorted? Use a variation of binary search or 2-pointers. <br>
-    Find the longest/shortest subarray or value : use sliding window. <br>
-    Loop in an array: use the runner technique. <br>
-    Need to find the position of an element: runner technique <br>
-    Find missing/duplicate/smallest number in sorted/rotated array: Use cyclic sort. <br>
-    Sorted array with numbers in a given range: cyclic sort
+    &#8226; Sorted: Use a variation of binary search or 2-pointers. <br>
+    &#8226; Find the longest/shortest subarray or value : sliding window. <br>
+    &#8226; Loop in an array: runner technique. <br>
+    &#8226; Find the position of an element: runner technique. <br>
+    &#8226; Find missing/duplicate/smallest number in sorted/rotated array: cyclic sort. <br>
+    &#8226; Sorted array with numbers in a given range: cyclic sort.
     </td>
   </tr>
   <tr>
     <th>String</th>
     <td>
-    Find the longest/shortest substring or value: sliding window. <br>
-    Search among strings : Trie <br>
-    Find a common substring among a set of strings: hashmap or trie.
+    &#8226; Find the longest/shortest substring or value: sliding window.<br>
+    &#8226; Search among strings : Trie.<br>
+    &#8226; Find a common substring among a set of strings: hashmap or trie.
     </td>
   </tr>
     <tr>
     <th>Linked List</th>
     <td>
-    Is is sorted? : use a variation of binary search or 2-pointers(the latter only if it's doubly-linked) <br>
-    No extra space: runner technique <br>
-    Find desired value: sliding window. <br>
-    Loop in a linked list: runner technique <br>
-    Need the length of a list or the position of an element: runner technique
+    &#8226; Sorted : use a variation of binary search or 2-pointers(the latter only if it's doubly-linked). <br>
+    &#8226; No extra space: runner technique. <br>
+    &#8226; Find desired value: sliding window. <br>
+    &#8226; Loop in a linked list: runner technique. <br>
+      &#8226; Find the length of a list <b>or</b> the position of an element: runner technique.
     </td>
   </tr>
   <tr>
     <th>Matrix</th>
     <td>
-    Is it sorted? : variation of binary search or 2-pointers.
+    &#8226; Sorted : variation of binary search or 2-pointers.
     </td>
   </tr>
   <tr>
     <th>Tree</th>
     <td>
-    Traverse level-by-level: BFS <br>
-    Traverse in-order/post-order/pre-order: DFS <br>
-    Search for element where the node is close to a leaf: DFS <br>
-    Binary Tree: two-heaps
+    &#8226; Traverse level-by-level: BFS. <br>
+    &#8226; Traverse in-order/post-order/pre-order: DFS. <br>
+    &#8226; Search for element where the node is close to a leaf: DFS. <br>
+    &#8226; Binary Tree: two-heaps.
     </td>
   </tr>
     <tr>
     <th>Graph</th>
     <td>
-    BFS <br>
-    DFS
+    &#8226; BFS. <br>
+    &#8226; DFS.
     </td>
   </tr>
   <tr>
@@ -75,13 +75,13 @@ So I came up with the following:
   <tr>
     <th>Other/Misc.</th>
     <td>
-    Priority queue/scheduling: two-heaps. <br>
-    Find smallest/largest/median element of a set: two-heaps <br>
-    Find combinations/permutations of a given set: subsets <br>
-    Optimization (maximization/minimization) : Dynamic programming <br>
-    Convert a recursive approach to an iterative one: use a stack. <br>
-    Try all permutations/Combinations of input: Recursive backtracking or iterative BFS. <br>
-    Top/Max/Min/Closest K elements among n elements: Heap
+    &#8226; Priority queue/scheduling: two-heaps. <br>
+    &#8226; Find smallest/largest/median element of a set: two-heaps. <br>
+    &#8226; Find combinations/permutations of a given set: subsets. <br>
+    &#8226; Optimization (maximization/minimization) : Dynamic programming. <br>
+    &#8226; Convert a recursive approach to an iterative one: use a stack. <br>
+    &#8226; Try all permutations/Combinations of input: Recursive backtracking or iterative BFS. <br>
+    &#8226; Top/Max/Min/Closest K elements among n elements: Heap.
     </td>
   </tr>
 </table>
