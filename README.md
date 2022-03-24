@@ -71,6 +71,7 @@ This repo will cover some of the patterns one can use when solving data structur
     <th>Two-pointer</th>
     <td>&#8226; It will feature problems where you deal with sorted arrays (or Linked Lists) and need to find a set of elements that fulfill certain constraints.<br>
 &#8226; The set of elements in the array is a pair, a triplet, or even a subarray. <br>
+      &#8226; Searching pairs in a sorted array or linked list; for example, when you have to compare each element of an array to its other elements.<br>
     &#8226; There are some cases where you shouldn’t use the Two Pointer approach such as in a singly linked list where you can’t move in a backwards direction. An example of when to use the Fast and Slow pattern is when you’re trying to determine if a linked list is a palindrome.
 </td>
     <td>&#8226; Squaring a sorted array (easy) <br>
@@ -78,7 +79,7 @@ This repo will cover some of the patterns one can use when solving data structur
       &#8226; Comparing strings that contain backspaces (medium)</td>
   </tr>
   <tr>
-    <th>Fast and slow pointer</th>
+    <th>Fast and slow pointer (a.k.a Hare & Tortoise algorithm)</th>
     <td>&#8226; The problem will deal with a loop in a linked list or array <br>
 &#8226; When you need to know the position of a certain element or the overall length of the linked list.</td>
     <td>&#8226; Linked List Cycle (easy) <br>
