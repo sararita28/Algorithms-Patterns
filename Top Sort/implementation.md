@@ -32,5 +32,5 @@ b) Repeat (a), until the source Queue is empty.
 &#8226; If you have a class of objects that follow a particular order
 
 #### Problems featuring the Topological Sort pattern:
-&#8226; Task scheduling (medium)
+&#8226; Task scheduling (medium) <br>
 &#8226; Minimum height of a tree (hard)
