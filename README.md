@@ -72,7 +72,7 @@ This repo will cover some of the patterns one can use when solving data structur
     <td>&#8226; It will feature problems where you deal with sorted arrays (or Linked Lists) and need to find a set of elements that fulfill certain constraints.<br>
 &#8226; The set of elements in the array is a pair, a triplet, or even a subarray. <br>
       &#8226; Searching pairs in a sorted array or linked list; for example, when you have to compare each element of an array to its other elements.<br>
-    &#8226; There are some cases where you shouldn’t use the Two Pointer approach such as in a singly linked list where you can’t move in a backwards direction. An example of when to use the Fast and Slow pattern is when you’re trying to determine if a linked list is a palindrome.
+    &#8226; There are some cases where you shouldn’t use the Two Pointer approach such as in a singly linked list where you can’t move in a backwards direction (if that's the case, consider the runner technique(a.k.a fast and slow). An example of when to use the Fast and Slow pattern is when you’re trying to determine if a linked list is a palindrome.
 </td>
     <td>&#8226; Squaring a sorted array (easy) <br>
       &#8226; Triplets that sum to zero (medium) <br>
