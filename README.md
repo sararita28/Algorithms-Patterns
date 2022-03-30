@@ -63,8 +63,8 @@ This repo will cover some of the patterns one can use when solving data structur
     <th>Sliding window</th>
     <td>&#8226; The problem input is a linear data structure such as a linked list, array, or string. <br>
       &#8226; You’re asked to find the longest/shortest substring, subarray, or a desired value</td>
-    <td>&#8226; Maximum sum subarray of size ‘K’ (easy) <br>
-&#8226; Longest substring with ‘K’ distinct characters (medium)<br>
+    <td>&#8226; Maximum sum subarray of size ‘K’ (easy)	 <br>
+&#8226; <a href="https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/" target="_blank">Longest substring with ‘K’ distinct characters (medium)</a><br>
 &#8226; String anagrams (hard)</td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ This repo will cover some of the patterns one can use when solving data structur
       &#8226; Searching pairs in a sorted array or linked list; for example, when you have to compare each element of an array to its other elements.<br>
     &#8226; There are some cases where you shouldn’t use the Two Pointer approach such as in a singly linked list where you can’t move in a backwards direction (if that's the case, consider the runner technique(a.k.a fast and slow). An example of when to use the Fast and Slow pattern is when you’re trying to determine if a linked list is a palindrome.
 </td>
-    <td>&#8226; Squaring a sorted array (easy) <br>
+    <td>&#8226; <a href="https://leetcode.com/problems/squares-of-a-sorted-array/" target="_blank">Squaring a sorted array (easy)</a> <br>
       &#8226; Triplets that sum to zero (medium) <br>
       &#8226; Comparing strings that contain backspaces (medium)</td>
   </tr>
@@ -82,7 +82,7 @@ This repo will cover some of the patterns one can use when solving data structur
     <th>Fast and slow pointer (a.k.a Hare & Tortoise algorithm)</th>
     <td>&#8226; The problem will deal with a loop in a linked list or array <br>
 &#8226; When you need to know the position of a certain element or the overall length of the linked list.</td>
-    <td>&#8226; Linked List Cycle (easy) <br>
+    <td>&#8226; <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank">Linked List Cycle (easy)</a> <br>
 &#8226; Palindrome Linked List (medium)<br>
 &#8226; Cycle in a Circular Array (hard)</td>
   </tr>
