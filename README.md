@@ -97,13 +97,13 @@ This repo will cover some of the patterns one can use when solving data structur
     <th>Cyclic sort</th>
     <td>&#8226; They will be problems involving a sorted array with numbers in a given range. <br>
 &#8226; If the problem asks you to find the missing/duplicate/smallest number in an orted/rotated array.</td>
-    <td>&#8226; Find the Missing Number (easy) <br>
+    <td>&#8226;<a href="https://leetcode.com/problems/missing-number/" target="_blank">Find the Missing Number (easy)</a> <br>
 &#8226; Find the Smallest Missing Positive Number (medium)</td>
   </tr>
   <tr>
     <th>Tree BFS </th>
     <td>&#8226; If you’re asked to traverse a tree in a level-by-level fashion (or level order traversal).</td>
-    <td>&#8226; Binary Tree Level Order Traversal (easy) <br>
+    <td>&#8226;<a href="https://leetcode.com/problems/binary-tree-level-order-traversal/" target="_blank">Binary Tree Level Order Traversal (easy)</a>  <br>
       &#8226; Zigzag Traversal (medium)</td>
   </tr>
   <tr>
