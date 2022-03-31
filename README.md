@@ -83,14 +83,14 @@ This repo will cover some of the patterns one can use when solving data structur
     <td>&#8226; The problem will deal with a loop in a linked list or array <br>
 &#8226; When you need to know the position of a certain element or the overall length of the linked list.</td>
     <td>&#8226; <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank">Linked List Cycle (easy)</a> <br>
-&#8226; Palindrome Linked List (medium)<br>
-&#8226; Cycle in a Circular Array (hard)</td>
+&#8226; <a href="https://leetcode.com/problems/palindrome-linked-list/" target="_blank">Palindrome Linked List</a> <br>
+&#8226; <a href="https://leetcode.com/problems/circular-array-loop/" target="_blank">Cycle in a Circular Array</a> </td>
   </tr>
   <tr>
     <th>Merge Intervals</th>
     <td>&#8226; If you’re asked to produce a list with only mutually exclusive intervals.<br>
       &#8226; If you hear the term “overlapping intervals”.</td>
-    <td>&#8226; Intervals Intersection (medium) <br>
+    <td>&#8226; <a href="https://leetcode.com/problems/interval-list-intersections/" target="_blank">Intervals Intersection (medium)</a> <br>
 &#8226; Maximum CPU Load (hard)</td>
   </tr>
   <tr>
