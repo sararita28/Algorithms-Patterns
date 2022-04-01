@@ -104,14 +104,14 @@ This repo will cover some of the patterns one can use when solving data structur
     <th>Tree BFS </th>
     <td>&#8226; If you’re asked to traverse a tree in a level-by-level fashion (or level order traversal).</td>
     <td>&#8226;<a href="https://leetcode.com/problems/binary-tree-level-order-traversal/" target="_blank">Binary Tree Level Order Traversal (easy)</a>  <br>
-      &#8226; Zigzag Traversal (medium)</td>
+      &#8226;<a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/" target="_blank"> Zigzag Traversal (medium)</a></td>
   </tr>
   <tr>
     <th>Tree DFS</th>
     <td>&#8226; If you’re asked to traverse a tree with in-order, preorder, or postorder DFS. <br>
 &#8226; If the problem requires searching for something where the node is closer to a leaf</td>
-    <td>&#8226; Sum of Path Numbers (medium) <br>
-&#8226; All Paths for a Sum (medium)</td>
+    <td>&#8226;<a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/" target="_blank"> Sum of Path Numbers (medium) </a><br>
+&#8226;<a href="https://leetcode.com/problems/path-sum-ii/" target="_blank">All Paths for a Sum (medium)</a></td>
   </tr>
   <tr>
     <th>Two-heaps</th>
@@ -124,6 +124,6 @@ This repo will cover some of the patterns one can use when solving data structur
     <th>Subsets</th>
     <td>&#8226; Problems where you need to find the combinations or permutations of a given set</td>
     <td>&#8226; Subsets With Duplicates (easy)<br>
-&#8226; String Permutations by changing case (medium)</td>
+&#8226;<a href="https://leetcode.com/problems/letter-case-permutation/" target="_blank">String Permutations by changing case (medium)</a></td>
   </tr>
 </table>
