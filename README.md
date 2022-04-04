@@ -1,8 +1,5 @@
 # Algorithms-Patterns
 
-🚧 This repo is under construction. It's meant for note-taking purposes only (for now). Later, when it's more organized, feel free to use it as you see fit, but please do your own due diligence.
-This repo will cover some of the patterns one can use when solving data structures and algorithms questions. The language used in this repo (if any) is <b>Javascript</b>.
-
 <table>
   <tr>
     <th>Type of problem. If...</th>    
