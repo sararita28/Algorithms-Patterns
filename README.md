@@ -13,7 +13,7 @@ This repo will cover some of the patterns one can use when solving data structur
     <td>Use a variation of binary search or a two-pointers strategy.</td>
   </tr>
    <tr>
-    <td>You're dealing with top/max/min/closest.. elements among n elements</td>
+    <td>You're dealing with top/max/min/closest.. k elements among n elements</td>
     <td>Use a heap</td>
   </tr> 
    <tr>
@@ -30,11 +30,11 @@ This repo will cover some of the patterns one can use when solving data structur
   </tr> 
    <tr>
     <td>There's a O(n^2) time and O(1) space solution</td>
-    <td>There must be 2 other solutions: <br> A. Using a Map/Set for O(n) time and space.<br>
+    <td>There must be 2 other solutions: <br> A. Using a Map/Set for O(1) time and O(n) space.<br>
      B. Using sorting for O(n logn) time and O(1)space.</td>
   </tr> 
    <tr>
-    <td>You're asked for optimization (e.g maximization or minimization)</td>
+    <td>You're asked for optimization (e.g maximization or minimization such as maximum/minimum subarray/subset/options)</td>
     <td>Use dynamic programming</td>
   </tr> 
    <tr>
