@@ -124,3 +124,5 @@
 &#8226;<a href="https://leetcode.com/problems/letter-case-permutation/" target="_blank">String Permutations by changing case (medium)</a></td>
   </tr>
 </table>
+
+Other techniques to keep in the back of your head : Decrease and conquer, greedy, topsort, hashtable, use of flags etc...
