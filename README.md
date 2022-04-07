@@ -126,3 +126,57 @@
 </table>
 
 Other techniques to keep in the back of your head : Decrease and conquer, greedy, topsort, hashtable, use of flags etc...
+
+<h2>More on what some DS/implementations are good for</h2>
+<table>
+  <tr>
+    <th>Data Structure</th>
+    <th>Good for</th>
+  </tr>
+  <tr>
+    <td>Arrays</td>
+    <td>Storing and accessing sequential data</td>
+  </tr>
+  <tr>
+    <td>Hastable</td>
+    <td>&#8226; Tracking item frequencies <br>
+      &#8226; Quick constant lookup time</td>
+  </tr>
+  <tr>
+    <td>Linked Lists</td>
+    <td>&#8226; Adding/Removing items from the start of a list in constant time <br>
+      &#8226; Accessing and storing numbers</td>
+  </tr>
+  <tr>
+    <td>Stacks</td>
+    <td>&#8226; Adding and removing in constant time <br>
+    &#8226; (Using recursion) pushing temporary data into a stack as you recurse then removing as you backtrack</td>
+  </tr>
+  <tr>
+    <td>Queues</td>
+    <td> &#8226; Keeping track of the k most recently added items <br> 
+     &#8226; Processing in order received</td>
+  </tr>
+  <tr>
+    <td>Bidirectional search</td>
+    <td> Finding shortest path between 2 nodes</td>
+  </tr>
+  <tr>
+    <td>Binary Tree</td>
+    <td> Ordering </td>
+  </tr>
+  <tr>
+    <td>Tries</td>
+    <td> &#8226; Tell whether a string is a prefix of a word <br>
+     &#8226; Prefix lookup</td>
+  </tr>
+  <tr>
+    <td>Heaps</td>
+    <td> &#8226; Basic ordering <br>
+     &#8226; Keeping track of max and min</td>
+  </tr>
+  <tr>
+    <td>In-order traversal</td>
+    <td>Printing elements of a BST in a sorted ascending order</td>
+  </tr>
+</table>
