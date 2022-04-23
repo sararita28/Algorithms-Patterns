@@ -45,6 +45,10 @@
    <tr>
     <td>The problem involves a linked list and you can't use extra space</td>
     <td>Use the runner technique (a.k.a fast & slow approach)</td>
+  </tr>
+  <tr>
+    <td>The problem mentions subarray/substring with at most/least K different numbers/letters</td>
+    <td>Use the sliding window technique</td>
   </tr> 
 </table>
 
