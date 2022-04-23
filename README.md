@@ -50,7 +50,11 @@
     <td>The problem mentions subarray/substring with at most/least K different numbers/letters</td>
     <td>Use the sliding window technique</td>
   </tr> 
-</table>
+  <tr>
+    <td>The problem mentions subarray/substring with exactly K different numbers/letters</td>
+    <td>Use a variation of the sliding window technique <a href="https://github.com/sararita28/Data-Structures-and-Algorithms/blob/main/Must-Know/Sliding%20Window.js">See here</a>
+</td>
+  </tr> </table>
 
 
 <h2>Identify if a problem might be solved using a particular pattern</h2>
