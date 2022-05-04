@@ -31,9 +31,23 @@
      B. Using sorting for O(n logn) time and O(1)space.</td>
   </tr> 
    <tr>
-    <td>You're asked for optimization (e.g maximization or minimization such as maximum/minimum subarray/subset/options)</td>
+    <td>
+      <ul>
+        <li>You're asked for optimization (e.g maximization or minimization such as maximum/minimum subarray/subset/options).</li>
+        <li>The problem asks for the maximum/longest, minimal/shortest value/cost/profit you can get from doing operations on a sequence.</li>
+        <li>The problems is about optimal way to play a game.</li>
+      </ul>
+    </td>
     <td>Use dynamic programming</td>
   </tr> 
+  <tr>
+    <td>
+      <ul>
+        <li>The problem asks for how many ways there are to do something.</li>
+        <li>Partition a string/array into sub-sequences so that certain condition is met. </li></td>
+      </ul>
+    <td>DFS + memoization, i.e. top-down dynamic programming.</td>
+  </tr>
    <tr>
     <td>You need to find some common substring among a set of strings</td>
     <td>Use a hashmap or a trie.</td>
