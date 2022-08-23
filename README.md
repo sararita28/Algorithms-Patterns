@@ -61,14 +61,9 @@
     <td>Use the runner technique (a.k.a fast & slow approach)</td>
   </tr>
   <tr>
-    <td>The problem mentions subarray/substring with at most/least K different numbers/letters</td>
-    <td>Use the sliding window technique</td>
-  </tr> 
-  <tr>
-    <td>The problem mentions subarray/substring with exactly K different numbers/letters</td>
-    <td>Use a variation of the sliding window technique <a href="https://github.com/sararita28/Data-Structures-and-Algorithms/blob/main/Must-Know/Sliding%20Window.js">See here</a>
-</td>
-  </tr> 
+    <td>The problem mentions subarray/substring with at most/least or exactly K different numbers/letters</td>
+    <td>Use a variation of the sliding window technique <a href="https://github.com/sararita28/Data-Structures-and-Algorithms/blob/main/Must-Know/Sliding%20Window.js">See here</a></td>
+  </tr>  
   <tr>
   <td>Problem sounds something like this: "Design an algorithm to compute the nth ... , "Write code to list the first n ... n "Implement a method to compute all...</td>
 <td>Use recursion</td>
